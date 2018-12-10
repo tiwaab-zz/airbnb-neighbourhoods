@@ -10,9 +10,9 @@ L.mapboxGL({
 //Adds map attribution for OpenStreetMap, Leaflet and Mapbox
 map.attributionControl.addAttribution('© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>');
 
-var dataCSV = "Resources/cleaned_reviews_dc.csv"
+var dataCSV = "cleaned_reviews_dc.csv"
 
-var geojsonURL = "Resources/neighbourhoods_dc.geojson"
+var geojsonURL = "neighbourhoods_dc.geojson"
 
 // Fetch GeoJSON and data to join
 d3.json(geojsonURL, function(error, json){
