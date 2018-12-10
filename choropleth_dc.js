@@ -12,7 +12,7 @@ map.attributionControl.addAttribution('© <a href="https://www.mapbox.com/about/
 
 var dataCSV = "Resources/cleaned_reviews_dc.csv"
 
-var geojsonURL = "http://data.insideairbnb.com/united-states/dc/washington-dc/2017-05-10/visualisations/neighbourhoods.geojson"
+var geojsonURL = "Resources/neighbourhoods_dc.geojson"
 
 // Fetch GeoJSON and data to join
 d3.json(geojsonURL, function(error, json){
