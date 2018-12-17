@@ -1,40 +1,40 @@
-,neighbourhood,number_of_reviews
-0,"Brightwood Park, Crestwood, Petworth",13429
-1,"Brookland, Brentwood, Langdon",5337
-2,"Capitol Hill, Lincoln Park",31095
-3,"Capitol View, Marshall Heights, Benning Heights",1607
-4,"Cathedral Heights, McLean Gardens, Glover Park",2650
-5,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2873
-6,"Colonial Village, Shepherd Park, North Portal Estates",783
-7,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",26478
-8,"Congress Heights, Bellevue, Washington Highlands",1791
-9,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",538
-10,"Douglas, Shipley Terrace",1069
-11,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",9006
-12,"Dupont Circle, Connecticut Avenue/K Street",19339
-13,"Eastland Gardens, Kenilworth",223
-14,"Edgewood, Bloomingdale, Truxton Circle, Eckington",28225
-15,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",280
-16,"Friendship Heights, American University Park, Tenleytown",3481
-17,"Georgetown, Burleith/Hillandale",8120
-18,"Hawthorne, Barnaby Woods, Chevy Chase",1540
-19,Historic Anacostia,1569
-20,"Howard University, Le Droit Park, Cardozo/Shaw",11024
-21,"Ivy City, Arboretum, Trinidad, Carver Langston",7510
-22,"Kalorama Heights, Adams Morgan, Lanier Heights",11085
-23,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1657
-24,"Mayfair, Hillbrook, Mahaning Heights",854
-25,"Near Southeast, Navy Yard",800
-26,"North Cleveland Park, Forest Hills, Van Ness",751
-27,"North Michigan Park, Michigan Park, University Heights",2591
-28,"River Terrace, Benning, Greenway, Dupont Park",1544
-29,"Shaw, Logan Circle",24052
-30,"Sheridan, Barry Farm, Buena Vista",885
-31,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",5221
-32,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",1303
-33,"Takoma, Brightwood, Manor Park",3148
-34,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2064
-35,"Union Station, Stanton Park, Kingman Park",33196
-36,"West End, Foggy Bottom, GWU",7670
-37,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",209
-38,"Woodridge, Fort Lincoln, Gateway",2034
+,neighbourhood,number_of_reviews,normalized value (per 1000 reviews)
+0,"Brightwood Park, Crestwood, Petworth",13429,48.0
+1,"Brookland, Brentwood, Langdon",5337,19.0
+2,"Capitol Hill, Lincoln Park",31095,112.0
+3,"Capitol View, Marshall Heights, Benning Heights",1607,6.0
+4,"Cathedral Heights, McLean Gardens, Glover Park",2650,10.0
+5,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2873,10.0
+6,"Colonial Village, Shepherd Park, North Portal Estates",783,3.0
+7,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",26478,96.0
+8,"Congress Heights, Bellevue, Washington Highlands",1791,6.0
+9,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",538,2.0
+10,"Douglas, Shipley Terrace",1069,4.0
+11,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",9006,33.0
+12,"Dupont Circle, Connecticut Avenue/K Street",19339,70.0
+13,"Eastland Gardens, Kenilworth",223,1.0
+14,"Edgewood, Bloomingdale, Truxton Circle, Eckington",28225,102.0
+15,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",280,1.0
+16,"Friendship Heights, American University Park, Tenleytown",3481,13.0
+17,"Georgetown, Burleith/Hillandale",8120,29.0
+18,"Hawthorne, Barnaby Woods, Chevy Chase",1540,6.0
+19,Historic Anacostia,1569,6.0
+20,"Howard University, Le Droit Park, Cardozo/Shaw",11024,40.0
+21,"Ivy City, Arboretum, Trinidad, Carver Langston",7510,27.0
+22,"Kalorama Heights, Adams Morgan, Lanier Heights",11085,40.0
+23,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",1657,6.0
+24,"Mayfair, Hillbrook, Mahaning Heights",854,3.0
+25,"Near Southeast, Navy Yard",800,3.0
+26,"North Cleveland Park, Forest Hills, Van Ness",751,3.0
+27,"North Michigan Park, Michigan Park, University Heights",2591,9.0
+28,"River Terrace, Benning, Greenway, Dupont Park",1544,6.0
+29,"Shaw, Logan Circle",24052,87.0
+30,"Sheridan, Barry Farm, Buena Vista",885,3.0
+31,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",5221,19.0
+32,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",1303,5.0
+33,"Takoma, Brightwood, Manor Park",3148,11.0
+34,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2064,7.0
+35,"Union Station, Stanton Park, Kingman Park",33196,120.0
+36,"West End, Foggy Bottom, GWU",7670,28.0
+37,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",209,1.0
+38,"Woodridge, Fort Lincoln, Gateway",2034,7.0
