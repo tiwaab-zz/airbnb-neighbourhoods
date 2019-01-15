@@ -107,7 +107,7 @@ d3.json(geojsonURL, function(error, json){
       labels = [];
 
     // Add min & max
-    var legendInfo = "<h1>Number of </b> Bookings </h1>" +
+    var legendInfo = "<h1>Number of </br> Bookings </h1>" +
       "<div class=\"labels\">" +
         "<div class=\"min\">" + limits[0].toLocaleString() + "</div>" +
         "<div class=\"max\">" + limits[limits.length - 1].toLocaleString() + "</div>" +
