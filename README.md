@@ -1,6 +1,6 @@
 Data visualization project to show the most popular neighbourhoods in a city according to Airbnb.
 
-![](airbnb.gif)
+<p align="center"> <img src="https://media.giphy.com/media/1xONnc1I6Bu96uyrdk/giphy.gif"> </p>
 
 [Live](https://tiwaab.github.io/airbnb-neighbourhoods/) version demonstrated on Paris.
 
